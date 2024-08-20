@@ -1,0 +1,469 @@
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-addon-resizer:1.8.20-build20240410
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-addon-resizer:1.8.20-build20240410 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-calico:v3.28.0-build20240625
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-calico:v3.28.0-build20240625 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-cluster-autoscaler:v1.8.10-build20240124
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-cluster-autoscaler:v1.8.10-build20240124 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-cni-plugins:v1.4.1-build20240325
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-cni-plugins:v1.4.1-build20240325 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-cni-plugins:v1.4.1-build20240430
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-cni-plugins:v1.4.1-build20240430 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-coredns:v1.11.1-build20240305
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-coredns:v1.11.1-build20240305 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-dns-node-cache:1.22.28-build20240125
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-dns-node-cache:1.22.28-build20240125 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-etcd:v3.5.13-k3s1-build20240531
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-etcd:v3.5.13-k3s1-build20240531 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-flannel:v0.25.4-build20240610
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-flannel:v0.25.4-build20240610 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-ib-sriov-cni:v1.0.3-build20240327
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-ib-sriov-cni:v1.0.3-build20240327 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-k8s-metrics-server:v0.7.1-build20240401
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-k8s-metrics-server:v0.7.1-build20240401 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-kubernetes:v1.29.7-rke2r1-build20240717
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-kubernetes:v1.29.7-rke2r1-build20240717 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-multus-cni:v4.0.2-build20240612
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-multus-cni:v4.0.2-build20240612 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-node-feature-discovery:v0.15.4-build20240513
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-node-feature-discovery:v0.15.4-build20240513 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-sriov-cni:v2.7.0-build20240327
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-sriov-cni:v2.7.0-build20240327 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-sriov-network-config-daemon:v1.2.0-build20240327
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-sriov-network-config-daemon:v1.2.0-build20240327 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-sriov-network-device-plugin:v3.6.2-build20240327
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-sriov-network-device-plugin:v3.6.2-build20240327 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-sriov-network-operator:v1.2.0-build20240327
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-sriov-network-operator:v1.2.0-build20240327 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-sriov-network-resources-injector:v1.5-build20240327
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-sriov-network-resources-injector:v1.5-build20240327 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-sriov-network-webhook:v1.2.0-build20240327
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-sriov-network-webhook:v1.2.0-build20240327 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/hardened-whereabouts:v0.7.0-build20240429
+
+Verification for rgcrprod.azurecr.us/rancher/hardened-whereabouts:v0.7.0-build20240429 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/harvester-cloud-provider:v0.2.1
+
+Verification for rgcrprod.azurecr.us/rancher/harvester-cloud-provider:v0.2.1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/harvester-csi-driver:v0.1.6
+
+Verification for rgcrprod.azurecr.us/rancher/harvester-csi-driver:v0.1.6 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/klipper-helm:v0.8.4-build20240523
+
+Verification for rgcrprod.azurecr.us/rancher/klipper-helm:v0.8.4-build20240523 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/klipper-lb:v0.4.7
+
+Verification for rgcrprod.azurecr.us/rancher/klipper-lb:v0.4.7 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-apiserver:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-apiserver:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-cni:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-cni:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-csi:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-csi:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-ctl:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-ctl:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-kube-controllers:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-kube-controllers:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-node-driver-registrar:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-node-driver-registrar:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-node:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-node:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-operator:v1.32.7
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-operator:v1.32.7 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-pod2daemon-flexvol:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-pod2daemon-flexvol:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-calico-typha:v3.27.3
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-calico-typha:v3.27.3 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-certgen:v0.1.12
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-certgen:v0.1.12 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-cilium-envoy:v1.28.3-31ec52ec5f2e4d28a8e19a0bfb872fa48cf7a515
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-cilium-envoy:v1.28.3-31ec52ec5f2e4d28a8e19a0bfb872fa48cf7a515 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-cilium:v1.15.5
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-cilium:v1.15.5 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-clustermesh-apiserver:v1.15.5
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-clustermesh-apiserver:v1.15.5 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-hubble-relay:v1.15.5
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-hubble-relay:v1.15.5 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-hubble-ui-backend:v0.13.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-hubble-ui-backend:v0.13.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-hubble-ui:v0.13.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-hubble-ui:v0.13.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-operator-aws:v1.15.5
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-operator-aws:v1.15.5 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-operator-azure:v1.15.5
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-operator-azure:v1.15.5 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cilium-operator-generic:v1.15.5
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cilium-operator-generic:v1.15.5 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.29.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cloud-provider-vsphere-cpi-release-manager:v1.29.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cloud-provider-vsphere-csi-release-driver:v3.3.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cloud-provider-vsphere-csi-release-driver:v3.3.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-cloud-provider-vsphere-csi-release-syncer:v3.3.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-cloud-provider-vsphere-csi-release-syncer:v3.3.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-ingress-nginx-kube-webhook-certgen:v20230312-helm-chart-4.5.2-28-g66a760794
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-ingress-nginx-kube-webhook-certgen:v20230312-helm-chart-4.5.2-28-g66a760794 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-kube-vip-kube-vip-iptables:v0.6.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-kube-vip-kube-vip-iptables:v0.6.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-library-busybox:1.36.1
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-library-busybox:1.36.1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-longhornio-csi-attacher:v3.2.1
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-longhornio-csi-attacher:v3.2.1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-longhornio-csi-node-driver-registrar:v2.3.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-longhornio-csi-node-driver-registrar:v2.3.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-longhornio-csi-provisioner:v2.1.2
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-longhornio-csi-provisioner:v2.1.2 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-longhornio-csi-resizer:v1.2.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-longhornio-csi-resizer:v1.2.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-pause:3.6
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-pause:3.6 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-attacher:v4.5.1
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-attacher:v4.5.1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-node-driver-registrar:v2.10.1
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-node-driver-registrar:v2.10.1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-provisioner:v4.0.1
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-provisioner:v4.0.1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-resizer:v1.10.1
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-resizer:v1.10.1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-snapshotter:v7.0.2
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-sig-storage-csi-snapshotter:v7.0.2 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-sig-storage-livenessprobe:v2.12.0
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-sig-storage-livenessprobe:v2.12.0 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-sig-storage-snapshot-controller:v6.2.1
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-sig-storage-snapshot-controller:v6.2.1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/mirrored-sig-storage-snapshot-validation-webhook:v6.2.2
+
+Verification for rgcrprod.azurecr.us/rancher/mirrored-sig-storage-snapshot-validation-webhook:v6.2.2 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/nginx-ingress-controller:v1.10.1-hardened1
+
+Verification for rgcrprod.azurecr.us/rancher/nginx-ingress-controller:v1.10.1-hardened1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/rke2-cloud-provider:v1.29.3-build20240515
+
+Verification for rgcrprod.azurecr.us/rancher/rke2-cloud-provider:v1.29.3-build20240515 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
+cosign verify --private-infrastructure=true --key=/root/carbide-key.pub rgcrprod.azurecr.us/rancher/rke2-runtime:v1.29.7-rke2r1
+
+Verification for rgcrprod.azurecr.us/rancher/rke2-runtime:v1.29.7-rke2r1 --
+The following checks were performed on each of these signatures:
+  - The cosign claims were validated
+  - The signatures were verified against the specified public key
+---
